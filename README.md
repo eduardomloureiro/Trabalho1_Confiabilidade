@@ -1,4 +1,10 @@
-# Trabalho1
+# Trabalho 1 - Confiabilidade de Sistemas
+
+## Estimação de Índices de Confiabilidade de Sistemas de Geração de Energia Elétrica
+
+
+**Alunos: Davi e Eduardo**
+
 
 Instruções de Execução:
 
